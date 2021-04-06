@@ -297,16 +297,15 @@
 .footer__column {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .footer__column_content_copyright {
   flex-basis: 711px;
+  justify-content: space-between;
   color:white;
 }
 
 .logo_place_footer {
-  width: 183px;
   height: 35px;
 }
 
@@ -336,13 +335,6 @@
   display: flex;
   flex-direction: column;
   list-style: none;
-}
-
-.footer__column-social-heading {
-  margin: 0;
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: bold;
 }
 
 .footer__column-link {
