@@ -13,6 +13,7 @@
 * ### Разметка и вёрстка форм
 * ### Организация файлов по БЭМ
 * ### Дебаггинг в вёрстке
-
+---
+## [Посмотреть работу](https://tarstabor.github.io/how-to-learn/)
 ---
 ![Иллюстрация к проекту](https://upload.wikimedia.org/wikipedia/ru/1/14/Opyat_dvoyka.jpg)
